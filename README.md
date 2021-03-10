@@ -1,5 +1,9 @@
 # Capstone_Design1
 In order to develop the ability to solve problems encountered in the field, students carry out a series of courses from planning to production instead of graduation papers.
+# 캡스톤디자인 팀원 포함한 organization 만들었습니다.
+- https://github.com/LRJL/Capstone_Design_1
+- code 공동 관리와 팀프로젝트 진행을 위해서 관련 자료나 코드를 위 깃허브 주소에서 올리도록 하겠습니다.
+- 이 repository는 개인적으로 관심있는 부분에 대한 코드나 개인적으로 조사한 자료로 testing 하는 용도로 사용할 예정입니다.
 
 # 자료조사
 # 1. 자율주행차의 영상 기반 차간 거리 측정 기술 
